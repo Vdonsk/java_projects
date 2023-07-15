@@ -56,33 +56,53 @@
  */
 
 // public class program {
+// public static void main(String[] args) {
+
+// // int a = 123;
+// // a++;
+// // System.out.println(a++);
+// // System.out.println(++a);
+// // System.out.println(a);
+
+// // boolean f = 123 > 456;
+// // boolean f = 123 < 456;
+// // boolean f = 123 != 456;
+// // boolean f = 123 == 456;
+// // System.out.println(f);
+
+// // int a = 8; // 1000
+// // // a = a << 1; // 10000
+// // System.out.println(a >> 2);
+
+// // int a = 5;
+// // int b = 2;
+// // System.out.println(a | b); // 101 010 111
+// // System.out.println(a & b); // 101 010 000
+// // System.out.println(a ^ b); // 101 010 000
+
+// boolean a = true;
+// boolean b = true;
+// System.out.println(a & b);
+// System.out.println(a && b);
+// }
+// }
+
+// public class program {
 //     public static void main(String[] args) {
 
-//         // int a = 123;
-//         // a++;
-//         // System.out.println(a++);
-//         // System.out.println(++a);
-//         // System.out.println(a);
-
-//         // boolean f = 123 > 456;
-//         // boolean f = 123 < 456;
-//         // boolean f = 123 != 456;
-//         // boolean f = 123 == 456;
-//         // System.out.println(f);
-
-//         // int a = 8; // 1000
-//         // // a = a << 1; // 10000
-//         // System.out.println(a >> 2);
-
-//         // int a = 5;
-//         // int b = 2;
-//         // System.out.println(a | b); // 101 010 111
-//         // System.out.println(a & b); // 101 010 000
-//         // System.out.println(a ^ b); // 101 010 000
-
-//         boolean a = true;
-//         boolean b = true;
-//         System.out.println(a & b);
-//         System.out.println(a && b);
+//         int[] arr = new int[10];
+//         arr[3] = 13;
+//         System.out.println(arr[3]);
 //     }
 // }
+
+// import java.util.Scanner;
+// public class program {
+//     public static void main(String[] args) {
+//         Scanner iScanner = new Scanner(System.in);
+//         System.out.printf("name: ");
+//         String name = iScanner.nextLine();
+//         System.out.printf("Привет, %s!", name);
+//         iScanner.close();
+//     }
+// } 
